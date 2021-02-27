@@ -18,13 +18,12 @@ img: /images/blog-cover/blog61.png
 Annie是一款使用Go构建的视频下载软件，无需安装，只需简单配置即可通过命令行快速解析下载国内外多平台视频，默认可支持最高分辨率。此工具支持MacOS、Windows以及Linux平台，以下内容以Windows系统为例
 
 ### 安装方法
-1. Annie 基于 FFmpeg 下载合并，请到 [官网](https://www.ffmpeg.org/download.html) 选择系统下载
+1. 打开该 [项目](https://github.com/iawia002/annie/releases) ,根据不同版本下载Annie
+![img2](/images/blog/blog61/img2.png "© JACK小桔子")
+2. Annie 基于 FFmpeg 下载合并，请到 [FFmpeg官网](https://www.ffmpeg.org/download.html) 选择系统下载
 ![img1](/images/blog/blog61/img1.png "© JACK小桔子")
 
 > **注意**：FFmpeg不影响下载，仅影响最终文件合并
-
-2. 打开该 [项目](https://github.com/iawia002/annie/releases) ,根据不同版本下载Annie
-![img2](/images/blog/blog61/img2.png "© JACK小桔子")
 
 3. 将 Annie 放入 FFmpeg 的**bin**文件夹下，这个文件夹可以放在任意**固定**位置
 ![img3](/images/blog/blog61/img3.png "© JACK小桔子")
