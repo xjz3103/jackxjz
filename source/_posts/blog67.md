@@ -82,4 +82,4 @@ motion factory是一款Adobe Premiere Pro和Adobe After Effects的素材插件�
 * <font color = #bcbcbc>文件格式：</font><font color = #000000>7z</font>
 * <font color = #bcbcbc>应用平台：</font><font color = #000000>Windows</font>
 
-<font color = #ff0000>VIP资源网：</font>[点我传送](https://vipxjz.vercel.app/2020/12/19/fvd/)
+<font color = #ff0000>VIP资源网：</font>[点我传送](https://vipxjz.vercel.app/2020/12/19/motion-factory/)

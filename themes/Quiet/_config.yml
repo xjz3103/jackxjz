@@ -46,8 +46,8 @@ menu:
 # 站点运行开始时间.
 time:
   enable: false
-  year: 2021 # 年份
-  month: 02 # 月份
+  year: 2020 # 年份
+  month: 05 # 月份
   date: 07 # 日期
   hour: 17 # 小时
   minute: 05 # 分钟
